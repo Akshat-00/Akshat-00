@@ -1,4 +1,4 @@
-[![MasterHead](https://iq.opengenus.org/content/images/2020/10/github-logo.png)]
+![MasterHead](https://iq.opengenus.org/content/images/2020/10/github-logo.png)
 <h1 align="center">Hi 👋, I'm Akshat Gaur</h1>
 
 
