@@ -1,21 +1,64 @@
-![MasterHead](https://iq.opengenus.org/content/images/2020/10/github-logo.png)
-<h1 align="center">Hi 👋, I'm Akshat Gaur</h1>
+<!-- Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey!+I'm+Akshat+Gaur+👋;Aspiring+Data+Scientist+%7C+Software+Developer" alt="Typing SVG" />
 
-
-<h2>👨🏻‍💻  About Me</h2>
-<h3 align="center">An aspiring Data Scientist and Software Developer</h3>
-
-- 🌱 Currently learning **Machine Learning** & **DSA**
-
-- 📫 Contact me: **akshat99gaur@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshatgaur0610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatgaur0610" height="30" width="40" /></a>
-<a href="https://instagram.com/akshat.a.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat.a.k" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+### 🧠 About Me
 
+- 💻 Always building & learning something new
+- 📊 ML enthusiast with a love for patterns and predictions
+- 🌍 Exploring the intersection of **technology** & **social good**
+- 🧩 Enjoy tackling complex problems with creative code
+- 🚀 Currently working on: **EVida** (an app to support people with cognitive disabilities)
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:akshat99gaur@gmail.com"><img src="https://img.shields.io/badge/Email-akshat99gaur%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshatgaur0610"><img src="https://img.shields.io/badge/LinkedIn-akshatgaur0610-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://instagram.com/akshat.a.k"><img src="https://img.shields.io/badge/Instagram-akshat.a.k-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,angular,bootstrap,spring,mysql,postgresql,git,github,vscode&theme=light" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatgaur0610&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatgaur0610&theme=radical" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgaur0610&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 💡 Projects & Highlights
+
+- 🔍 **EVida** – Accessible assistant for users with cognitive disabilities (Hackathon)
+- 🤖 ML models, recommender systems, and classification tools
+- 📂 DSA & competitive programming repos for practice
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshatgaur0610&style=flat-square&color=blue" alt="Profile Views" />
+</p>
