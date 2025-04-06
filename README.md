@@ -13,7 +13,6 @@
 - 📊 ML enthusiast with a love for patterns and predictions
 - 🌍 Exploring the intersection of **technology** & **social good**
 - 🧩 Enjoy tackling complex problems with creative code
-- 🚀 Currently working on: **EVida** (an app to support people with cognitive disabilities)
 
 ---
 
@@ -30,28 +29,11 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,angular,bootstrap,spring,mysql,postgresql,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,java,js,html,css,angular,bootstrap,spring,mysql,postgresql,git,github,vscode&theme=light" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatgaur0610&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshatgaur0610&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgaur0610&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 💡 Projects & Highlights
-
-- 🔍 **EVida** – Accessible assistant for users with cognitive disabilities (Hackathon)
-- 🤖 ML models, recommender systems, and classification tools
-- 📂 DSA & competitive programming repos for practice
 
 ---
 
