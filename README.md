@@ -13,7 +13,7 @@
 - 📊 ML enthusiast with a love for patterns and predictions
 - 🌍 Exploring the intersection of **technology** & **social good**
 - 🧩 Enjoy tackling complex problems with creative code
-- - 🌐 Check out my portfolio: [Akshat-00.github.io](https://Akshat-00.github.io)
+- 🌐 Check out my portfolio: [Akshat-00.github.io](https://Akshat-00.github.io)
 
 ---
 
