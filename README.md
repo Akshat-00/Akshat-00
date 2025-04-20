@@ -19,7 +19,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:akshatgaur.06@gmail.com"><img src="https://img.shields.io/badge/Email-akshat99gaur%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:akshat99gaur@gmail.com"><img src="https://img.shields.io/badge/Email-akshat99gaur%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akshatgaur0610"><img src="https://img.shields.io/badge/LinkedIn-akshatgaur0610-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://instagram.com/akshat.a.k"><img src="https://img.shields.io/badge/Instagram-akshat.a.k-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://Akshat-00.github.io"><img src="https://img.shields.io/badge/Portfolio-Akshat--00.github.io-24292e?style=flat-square&logo=githubpages&logoColor=white" /></a>
